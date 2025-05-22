@@ -1,6 +1,6 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
 
-### NAME: Naveen M
+### NAME: Dhiyaneshwar P
 ### REGISTER NUMBER: 212222110009
 ### DEPARTMENT: CSE(IoT)
 ### YEAR: 3
